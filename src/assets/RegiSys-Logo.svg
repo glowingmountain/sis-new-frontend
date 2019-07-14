@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1124.056px" height="275px" viewBox="-218.289 39.483 1124.056 275" enable-background="new -218.289 39.483 1124.056 275"
+	 xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-298.8337" y1="809.5408" x2="-323.7049" y2="766.4628" gradientTransform="matrix(1 0 0 -1 119.1948 858.5718)">
+	<stop  offset="0" style="stop-color:#60CAE7"/>
+	<stop  offset="0.4892" style="stop-color:#00B6BE"/>
+	<stop  offset="1" style="stop-color:#03466A"/>
+</linearGradient>
+<polygon fill="url(#SVGID_1_)" points="-212.602,87.437 -173.434,99.885 -173.434,52.613 -212.602,44.521 "/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-44.3889" y1="623.2898" x2="-342.547" y2="795.4313" gradientTransform="matrix(1 0 0 -1 119.1948 858.5718)">
+	<stop  offset="0" style="stop-color:#60CAE7"/>
+	<stop  offset="0.5484" style="stop-color:#00B6BE"/>
+	<stop  offset="1" style="stop-color:#03466A"/>
+</linearGradient>
+<path fill="url(#SVGID_2_)" d="M5.27,44.521h-217.872v42.917H-4.046c16.279,0,22.893,7.153,19.749,21.525l-2.74,12.535
+	c-2.903,13.283-12.523,19.892-28.874,19.892h-54.461l9.206-47.546h-42.917l-34.808,179.76h42.917l17.132-88.479h43.428l25.247,123
+	H32.75L6.84,181.888c31.166-8.114,44.595-30.712,51.113-60.526l2.771-12.67C69.189,69.973,43.191,44.521,5.27,44.521z"/>
+<text transform="matrix(1 0 0 1 26.8098 254.0701)" fill="#00A1B9" font-family="'ErasITC-Demi'" font-size="135">egistrySystem</text>
+</svg>
